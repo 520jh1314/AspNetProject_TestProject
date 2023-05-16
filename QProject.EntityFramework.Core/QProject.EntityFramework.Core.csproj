@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+	</PropertyGroup>
+
+
+
+	<ItemGroup>
+	  <None Remove="dbsetting.json" />
+	</ItemGroup>
+
+
+
+	<ItemGroup>
+	  <Content Include="dbsetting.json">
+	    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<ProjectReference Include="..\QProject.Core\QProject.Core.csproj" />
+	</ItemGroup>
+
+</Project>

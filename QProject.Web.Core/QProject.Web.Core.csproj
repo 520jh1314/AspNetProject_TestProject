@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<NoWarn>1701;1702;1591</NoWarn>
+		<DocumentationFile>QProject.Web.Core.xml</DocumentationFile>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<None Remove="QProject.Web.Core.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\QProject.Application\QProject.Application.csproj" />
+		<ProjectReference Include="..\QProject.Database.Migrations\QProject.Database.Migrations.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,1 @@
+﻿&"./tools/cli.ps1" -UseDatabaseNames  -DbProvider "Microsoft.EntityFrameworkCore.SqlServer" -CoreProject "QProject.Core" -EntryProject "QProject.Web.Entry" -ConnectionName "DbConnectionsqlserver"

@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<NoWarn>1701;1702;1591</NoWarn>
+		<DocumentationFile>QProject.Core.xml</DocumentationFile>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<None Remove="QProject.Core.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Furion" Version="4.8.7.38" />
+		<PackageReference Include="Furion.Extras.Authentication.JwtBearer" Version="4.8.7.38" />
+		<PackageReference Include="Furion.Extras.ObjectMapper.Mapster" Version="4.8.7.38" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Entities\" />
+	</ItemGroup>
+
+</Project>

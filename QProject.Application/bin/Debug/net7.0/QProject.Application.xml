@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QProject.Application</name>
+    </assembly>
+    <members>
+        <member name="M:QProject.Application.Documentation.DocumentationAppService.UploadFileLists(System.Collections.Generic.List{Microsoft.AspNetCore.Http.IFormFile})">
+             <summary>
+             含单文件上传、 多文件上传 、数据存储到数据库（物理路径）
+             </summary>
+             <param name="files"></param>
+             <returns></returns>
+            [FromForm]  （选择参数）
+        </member>
+        <member name="M:QProject.Application.Documentation.DocumentationAppService.getfile(System.String)">
+            <summary>
+            下载文件(物理路径)
+            </summary>
+            <param name="fcid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Documentation.DocumentationAppService.getviewfile(System.String)">
+            <summary>
+            文件预览
+            </summary>
+            <param name="fcid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Documentation.DocumentationAppService.deletesfiles(System.Collections.Generic.List{System.String})">
+            <summary>
+            多文件软删除
+            </summary>
+            <param name="fcids"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Documentation.DocumentationAppService.UploadFileAsync(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            单文件上传
+            </summary>
+            <param name="file"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Documentation.DocumentationAppService.deletefile(System.String)">
+            <summary>
+            软删除文件
+            </summary>
+            <param name="fcid"></param>
+            <returns></returns>
+        </member>
+        <member name="T:QProject.Application.Documentation.Dtos.DocumentationDto">
+            <summary>
+            查询
+            </summary>
+        </member>
+        <member name="P:QProject.Application.Documentation.Dtos.DocumentationDto.FCID">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:QProject.Application.Documentation.Dtos.DocumentationDto.Name">
+            <summary>
+            文件名称
+            </summary>
+        </member>
+        <member name="P:QProject.Application.Documentation.Dtos.DocumentationDto.SuffixName">
+            <summary>
+            文件后缀名
+            </summary>
+        </member>
+        <member name="P:QProject.Application.Documentation.Dtos.DocumentationDto.FilePathByte">
+            <summary>
+            文件以byte格式存储
+            </summary>
+        </member>
+        <member name="T:QProject.Application.Documentation.Dtos.addDocumentationDto">
+            <summary>
+            添加
+            </summary>
+        </member>
+        <member name="P:QProject.Application.Menu.Dtos.ProjectFileInfoDtos.FCID">
+            <summary>
+            文件ID
+            </summary>
+        </member>
+        <member name="M:QProject.Application.Menu.MenuAppService.getinterjectFileMeanings">
+            <summary>
+            获取N级菜单通过递归 ——父子关系
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Menu.MenuAppService.gettotalcontentmenu(System.Int32,System.Int32,QProject.Application.Menu.Dtos.ProjectMenuContentDtoObject)">
+            <summary>
+            获取菜单全部内容 ——分页、所有参数作为一个对象
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Menu.MenuAppService.gettotalcontentmenucrossdatabase(System.Int32,System.Int32,System.String)">
+            <summary>
+            获取菜单信息 ——查询、一个一个的参数
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Menu.MenuAppService.addProjectFileInfo(QProject.Application.Menu.Dtos.addProjectFileInfoDtos,System.String)">
+            <summary>
+            添加具体菜单信息 ——含添加、加密（DESC）、随机生成uuid
+            </summary>
+            <param name="projectfileInfodtos"></param>
+            <param name="fcid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.Menu.MenuAppService.getprojectfileInfo(System.Int32,System.Int32,System.String)">
+            <summary>
+            获取项目文件信息 ——解密查询、分页 、数据格式化（身份证信息格式化中间用*代替）
+            </summary>
+            <param name="pageindex"></param>
+            <param name="pagelist"></param>
+            <param name="fcid"></param>
+            <returns></returns>
+        </member>
+        <member name="T:QProject.Application.SystemAppService">
+            <summary>
+            系统服务接口
+            </summary>
+        </member>
+        <member name="M:QProject.Application.SystemAppService.GetDescription">
+            <summary>
+            获取系统描述
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:QProject.Application.test.Dtos.BlogStar.StarStarte">
+            <summary>
+            
+            </summary>
+            <example>0</example>
+        </member>
+        <member name="P:QProject.Application.test.Dtos.UserInput.Name">
+            <summary>
+            
+            </summary>
+            <example>小白的豪豪</example>
+        </member>
+        <member name="P:QProject.Application.test.Dtos.UserInput.Birthday">
+            <summary>
+            
+            </summary>
+            <example>2022-02-07</example>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.SayHello(System.String)">
+            <summary>
+            打招呼
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.getpersonname">
+            <summary>
+            初始化字符串数组
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.getStringlist">
+            <summary>
+            初始化字符串数组
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.getpersoninfo">
+            <summary>
+            初始化对象数组
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.InsertUserInfo(QProject.Application.test.Dtos.UserInput)">
+            <summary>
+            新增用户
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.delieteUserInfo(System.Int32)">
+            <summary>
+            删除用户
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.updateuser(QProject.Application.test.Dtos.UserInputId)">
+            <summary>
+            修改用户信息
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.getuserinfo">
+            <summary>
+            查询用户所有信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.InsertBolgInfo(QProject.Application.test.Dtos.BlogInput)">
+            <summary>
+            新增博客
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.getblogs(System.Int32)">
+            <summary>
+            查询用户博客信息
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.addStart(QProject.Application.test.Dtos.BlogStar)">
+            <summary>
+            自定义某用户关注某博客
+            </summary>
+            <param name="Star"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.addBlogStart(System.Int32,System.Int32)">
+            <summary>
+            用户关注某博客
+            </summary>
+            <param name="userId"></param>
+            <param name="blogId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:QProject.Application.test.TestAppService.deleteStar(System.Int32)">
+            <summary>
+            删除用户的关注博客
+            </summary>
+            <param name="Id"></param>
+        </member>
+        <member name="M:QProject.Application.Tool.DataFormatTools.ReplaceWithSpecialChar(System.String,System.Int32,System.Int32,System.Char)">
+            <summary>
+            数据中间部分显示为特殊字符   可用与身份证号、姓名等
+            </summary>
+            <param name="value">需要替换的字符串</param>
+            <param name="startLen">前保留长度</param>
+            <param name="endLen">尾保留长度</param>
+            <param name="specialChar">特殊字符</param>
+            <returns>被特殊字符替换的字符串</returns>
+        </member>
+    </members>
+</doc>

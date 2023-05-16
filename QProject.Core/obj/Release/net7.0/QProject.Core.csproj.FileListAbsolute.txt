@@ -1,0 +1,13 @@
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\bin\Release\net7.0\QProject.Core.deps.json
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\bin\Release\net7.0\QProject.Core.dll
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\bin\Release\net7.0\QProject.Core.pdb
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\bin\Release\net7.0\QProject.Core.xml
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\QProject.Core.csproj.AssemblyReference.cache
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\QProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\QProject.Core.AssemblyInfoInputs.cache
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\QProject.Core.AssemblyInfo.cs
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\QProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\QProject.Core.dll
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\refint\QProject.Core.dll
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\QProject.Core.pdb
+C:\Users\cown\Desktop\Furion\QProject\QProject.Core\obj\Release\net7.0\ref\QProject.Core.dll

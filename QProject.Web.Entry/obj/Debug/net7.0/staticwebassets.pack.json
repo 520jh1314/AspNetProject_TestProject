@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cown\\Desktop\\Furion\\QProject\\QProject.Web.Entry\\wwwroot\\uploads\\document\\2023\\4\\15\\QProject2023年4月15日_17-29-50.sql",
+      "PackagePath": "staticwebassets\\uploads\\document\\2023\\4\\15\\QProject2023年4月15日_17-29-50.sql"
+    },
+    {
+      "Id": "C:\\Users\\cown\\Desktop\\Furion\\QProject\\QProject.Web.Entry\\wwwroot\\uploads\\document\\2023\\4\\15\\furion错误集2023年4月15日_17-28-35.md",
+      "PackagePath": "staticwebassets\\uploads\\document\\2023\\4\\15\\furion错误集2023年4月15日_17-28-35.md"
+    },
+    {
+      "Id": "C:\\Users\\cown\\Desktop\\Furion\\QProject\\QProject.Web.Entry\\wwwroot\\uploads\\document\\2023\\4\\15\\furion错误集2023年4月15日_17-29-50.md",
+      "PackagePath": "staticwebassets\\uploads\\document\\2023\\4\\15\\furion错误集2023年4月15日_17-29-50.md"
+    },
+    {
+      "Id": "C:\\Users\\cown\\Desktop\\Furion\\QProject\\QProject.Web.Entry\\wwwroot\\uploads\\document\\2023\\4\\15\\地址链接2023年4月15日_17-28-35.txt",
+      "PackagePath": "staticwebassets\\uploads\\document\\2023\\4\\15\\地址链接2023年4月15日_17-28-35.txt"
+    },
+    {
+      "Id": "C:\\Users\\cown\\Desktop\\Furion\\QProject\\QProject.Web.Entry\\wwwroot\\uploads\\document\\2023\\4\\15\\地址链接2023年4月15日_17-29-50.txt",
+      "PackagePath": "staticwebassets\\uploads\\document\\2023\\4\\15\\地址链接2023年4月15日_17-29-50.txt"
+    },
+    {
+      "Id": "C:\\Users\\cown\\Desktop\\Furion\\QProject\\QProject.Web.Entry\\wwwroot\\uploads\\document\\2023\\4\\15\\新建_XLSX_工作表2023年4月15日_16-53-26.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\document\\2023\\4\\15\\新建_XLSX_工作表2023年4月15日_16-53-26.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\cown\\Desktop\\Furion\\QProject\\QProject.Web.Entry\\wwwroot\\uploads\\document\\2023\\4\\15\\新建_XLSX_工作表2023年4月15日_17-28-35.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\document\\2023\\4\\15\\新建_XLSX_工作表2023年4月15日_17-28-35.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.QProject.Web.Entry.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.QProject.Web.Entry.props",
+      "PackagePath": "build\\QProject.Web.Entry.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.QProject.Web.Entry.props",
+      "PackagePath": "buildMultiTargeting\\QProject.Web.Entry.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.QProject.Web.Entry.props",
+      "PackagePath": "buildTransitive\\QProject.Web.Entry.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

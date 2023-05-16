@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QProject.Web.Entry.props" />
+</Project>

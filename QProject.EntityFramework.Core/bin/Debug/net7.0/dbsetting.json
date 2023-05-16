@@ -1,0 +1,7 @@
+{
+    "$schema": "https://gitee.com/dotnetchina/Furion/raw/v4/schemas/v4/furion-schema.json",
+
+    "ConnectionStrings": {
+        "DbConnectionsqlserver": "Server=COWNQ;Database=QProject;User=sa;Password=P@ssword;MultipleActiveResultSets=True;TrustServerCertificate=true"
+    }
+}

@@ -1,0 +1,17 @@
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\bin\Debug\net7.0\dbsetting.json
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\bin\Debug\net7.0\QProject.EntityFramework.Core.deps.json
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\bin\Debug\net7.0\QProject.EntityFramework.Core.dll
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\bin\Debug\net7.0\QProject.EntityFramework.Core.pdb
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\bin\Debug\net7.0\QProject.Core.dll
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\bin\Debug\net7.0\QProject.Core.pdb
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\bin\Debug\net7.0\QProject.Core.xml
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.csproj.AssemblyReference.cache
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.AssemblyInfoInputs.cache
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.AssemblyInfo.cs
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.csproj.CopyComplete
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.dll
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\refint\QProject.EntityFramework.Core.dll
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\QProject.EntityFramework.Core.pdb
+C:\Users\cown\Desktop\Furion\QProject\QProject.EntityFramework.Core\obj\Debug\net7.0\ref\QProject.EntityFramework.Core.dll

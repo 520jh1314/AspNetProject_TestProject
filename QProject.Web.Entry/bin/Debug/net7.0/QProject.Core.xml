@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QProject.Core</name>
+    </assembly>
+    <members>
+        <member name="P:QProject.Core.FileStore.FCID">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:QProject.Core.FileStore.Name">
+            <summary>
+            文件名称
+            </summary>
+        </member>
+        <member name="P:QProject.Core.FileStore.SuffixName">
+            <summary>
+            文件后缀名
+            </summary>
+        </member>
+        <member name="P:QProject.Core.FileStore.FilePath">
+            <summary>
+            文件路径
+            </summary>
+        </member>
+        <member name="P:QProject.Core.FileStore.FilePathByte">
+            <summary>
+            文件以byte格式存储
+            </summary>
+        </member>
+        <member name="P:QProject.Core.FileStore.IsDeleted">
+            <summary>
+            是否删除(1 存在； 2 不存在)
+            </summary>
+        </member>
+        <member name="P:QProject.Core.ProjectFileInfo.FCID">
+            <summary>
+            文件ID
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,41 @@
+springboot实战项目地址：  https://www.bilibili.com/video/BV1bf4y1V7Bx?p=2  
+
+快速创建springboot项目地址：https://start.spring.io/
+
+https://www.skrtv.com/play/ctid/O0Lpbp7kM4W2DD.html
+
+
+下载之家： https://www.ittel.cn/
+
+java核心编程卷一：教学视频->https://horstmann.com/corejava/livelessons/index.html#(1)
+
+
+
+prop：https://blog.csdn.net/weixin_30838873/article/details/96667888?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166683327116800186559067%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166683327116800186559067&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-96667888-null-null.142^v62^pc_search_tree,201^v3^control,213^v1^t3_control1&utm_term=vue%20prop&spm=1018.2226.3001.4187 
+
+
+驾驶舱		祁佳豪	2022/11/23	2022/12/5
+
+echarts示例：————————————————————
+
+
+https://www.netfly.tv/vod/detail/78568.html
+
+https://zhuanlan.zhihu.com/p/382239048
+
+企业详情		祁佳豪	2022/12/7	2022/12/11
+
+人员资质		祁佳豪	2022/12/14	2022/12/23
+
+
+
+2033P@ssword
+
+
+页面成灰色
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
+-ms-filter: grayscale(100%);
+-o-filter: grayscale(100%);
+filter: grayscale(100%);
+filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
