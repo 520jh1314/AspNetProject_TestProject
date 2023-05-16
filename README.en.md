@@ -1,7 +1,7 @@
 # AspNetProject_TestProject
 
 #### Description
-使用Furion框架实现一些在项目开发过程中的功能示例
+The main use of Furion framework to achieve some examples in the development process, the project is mainly for beginners, beginners, just entering the staff
 
 #### Software Architecture
 Software architecture description
